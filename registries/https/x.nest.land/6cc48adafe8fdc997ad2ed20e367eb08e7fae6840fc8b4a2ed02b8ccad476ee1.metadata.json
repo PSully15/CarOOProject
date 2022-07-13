@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "content-length": "0",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET,POST",
+    "date": "Wed, 13 Jul 2022 23:27:21 GMT",
+    "vary": "Accept",
+    "location": "https://intellisense.nest.land/deno-import-intellisense.json",
+    "server": "nginx/1.14.0 (Ubuntu)",
+    "access-control-allow-headers": "*",
+    "connection": "keep-alive"
+  },
+  "url": "https://x.nest.land/.well-known/deno-import-intellisense.json",
+  "now": {
+    "secs_since_epoch": 1657754849,
+    "nanos_since_epoch": 413666100
+  }
+}
